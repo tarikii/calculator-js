@@ -1,0 +1,28 @@
+.content {
+    text-align: center;
+}
+
+
+.calculator-content {
+    width: 400px;
+    height: 500px;
+    line-height: 90px;
+    border: 2px solid;
+    margin: auto;
+}
+
+#display {
+    width: 350px;
+    height: 80px;
+    border: 2px solid;
+    margin-top: 20px;
+    text-align: right;
+    font-size: 60px;
+}
+
+.keys button {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    font-size: 35px;
+}
